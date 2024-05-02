@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @payomancz
+- 🌱 I’m currently learning LUA, HTML, CSS, PHP, JS, 
+- 📫 payomancz@icloud.com
+- 😄 Pronouns: He/Him
